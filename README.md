@@ -3,7 +3,7 @@ Educação, Ciência e Tecnologia de Goiás - Câmpus Goiânia, foi lá que desp
 
 Decidi expôr meu aprendizado e projetos que fiz e vou fazer aqui no github a fins de agregar algo para minha carreira profissional e para a área da computação
 
-Redes sociais: 
+Redes sociais: in/raphael-alves-701744265
 <!---
 phael77/phael77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
