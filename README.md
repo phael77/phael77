@@ -155,14 +155,3 @@ Eu me chamo Raphael Alves de Lima Soares, tenho 20 anos e sou natural de Goiâni
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=phael77&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
-</p>Meu nome é Raphael Alves de Lima Soares, atualmente estou cursando Bacharelado em Inteligência Artificial na Universidade Federal de Goiás, sou técnico em Eletrônica formado no Instituto Federal de 
-Educação, Ciência e Tecnologia de Goiás - Câmpus Goiânia, foi lá que despertei maior interesse pela área da tecnologia e computação e estou seguindo essa área que apaixonei.
-
-Decidi expôr meu aprendizado e projetos que fiz e vou fazer aqui no github a fins de agregar algo para minha carreira profissional e para a área da computação
-
-Redes sociais: in/raphael-alves-701744265
-<!---
-phael77/phael77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
