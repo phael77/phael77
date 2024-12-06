@@ -4,24 +4,6 @@
 
 Eu me chamo Raphael Alves de Lima Soares, tenho 20 anos e sou natural de Goiânia, Goiás. Concluí o ensino médio no IFG, com o curso técnico em eletrônica. Atualmente, estou cursando Bacharelado em Inteligência Artificial. Sou apaixonado por tecnologia e decidi compartilhar minhas experiências aqui no GitHub.
 
-<p align="left">
-     
-<a href="https://github.com/phael77?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-                    src="https://custom-icon-badges.demolab.com/github/stars/phael77?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/phael77?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/phael77?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
-
 ---
 
 ### 🤖 Linguagens e Tecnologias
