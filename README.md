@@ -1,8 +1,14 @@
 # Raphael Alves
 
-**Desenvolvedor Backend**
+**Backend Developer and AI Engineer**
 
-Eu me chamo Raphael Alves de Lima Soares, tenho 20 anos e sou natural de Goiânia, Goiás. Concluí o ensino médio no IFG, com o curso técnico em eletrônica. Atualmente, estou cursando Bacharelado em Inteligência Artificial. Sou apaixonado por tecnologia e decidi compartilhar minhas experiências aqui no GitHub.
+👋 Hi there! I'm Raphael Alves, a tech enthusiast from Goiânia, Goiás, Brazil.
+
+💡 Currently, I'm pursuing a Bachelor's degree in Artificial Intelligence at UFG and hold a Technical degree in Electronics from IFG Goiânia.
+
+🚀 My passion for technology started in my teenage years, and now I'm on a mission to turn that passion into a career—focusing on software development, especially developing AI algorithms.
+
+🔍 Always learning, always building. Let's connect and create something awesome!
 
 ---
 
