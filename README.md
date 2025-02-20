@@ -12,7 +12,7 @@
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Tech Stack & Tools
 
 
 <img
